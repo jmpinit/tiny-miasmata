@@ -1,4 +1,4 @@
-TINY MIASMATA for [DEMOMITE](http://owentrueblood.me/old/2012/01/30/demomite.html)
+TINY MIASMATA for the DEMOMITE console
 =============
 
 ![](http://www.hackniac.com/images/posts/tiny_miasmata/demomite_play.gif)
